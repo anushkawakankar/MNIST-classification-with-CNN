@@ -51,11 +51,6 @@ The model typically achieves over 98% accuracy on the test set after 25 epochs.
 
 You can modify the model architecture, hyperparameters, or training process by editing the relevant sections in the script.
 
-
-## Contributing
-
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/yourusername/mnist-cnn/issues) if you want to contribute.
-
 ## Author
 
 Anushka Wakankar
